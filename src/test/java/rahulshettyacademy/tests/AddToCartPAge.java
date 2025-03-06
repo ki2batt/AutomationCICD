@@ -17,7 +17,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import rahulshettyacademy.pageobjects.LandingPage;
 
 public class AddToCartPAge {
-
+	//new comments are added
 	public WebDriver driver;
 
 	@Test
